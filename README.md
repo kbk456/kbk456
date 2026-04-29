@@ -25,4 +25,4 @@ Java Spring 기반으로 교육, 핀테크, 회원 서비스 도메인에서 운
 
 ### Links
 
-[Portfolio](https://www.notion.so/Backend-Engineer-Portfolio-3512f1cf5a008053a8f0eaff3d9e657a) · [kbk456.github.io](https://kbk456.github.io) · kimbokyun311@naver.com
+[Portfolio](https://www.notion.so/Backend-Engineer-Portfolio-3512f1cf5a008053a8f0eaff3d9e657a) · [Velog](https://velog.io/@kbk456) · [kbk456.github.io](https://kbk456.github.io) · kimbokyun311@naver.com
